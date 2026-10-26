@@ -1,20 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0D12,50:4FD1C5,100:E8A659&height=220&section=header&text=Zainul%20Abedeen&fontSize=52&fontColor=E7EAEE&animation=fadeIn&fontAlignY=36&desc=Machine%20Learning%20Engineer&descSize=20&descAlignY=58" alt="Zainul Abedeen - Machine Learning Engineer" width="100%">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1000&color=4FD1C5&center=true&vCenter=true&width=720&height=40&lines=Turning+raw+data+into+production-ready+models.;Classification+%7C+NLP+%7C+Evaluation+tooling;Credit-risk+pipelines+on+1M%2B+records;Available+for+opportunities" alt="Typing animation"></a>
+<img src="assets/hero.svg" alt="Zainul Abedeen - Machine Learning Engineer" width="100%">
 
 <br>
 
-<a href="#-projects"><img src="https://img.shields.io/badge/See_the_work-4FD1C5?style=for-the-badge&labelColor=4FD1C5&color=4FD1C5&logoColor=08110F" alt="See the work"></a>
-<a href="#-contact"><img src="https://img.shields.io/badge/Get_in_touch-0A0D12?style=for-the-badge&labelColor=0A0D12&color=E8A659" alt="Get in touch"></a>
+<a href="#-projects"><img src="https://img.shields.io/badge/See_the_work-4FD1C5?style=for-the-badge&labelColor=0A0D12&color=4FD1C5" alt="See the work"></a>
+<a href="#-contact"><img src="https://img.shields.io/badge/Get_in_touch-E8A659?style=for-the-badge&labelColor=0A0D12&color=E8A659" alt="Get in touch"></a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Projects_shipped-3%2B-4FD1C5?style=for-the-badge&labelColor=0A0D12" alt="3+ projects shipped">
-<img src="https://img.shields.io/badge/Best_model_accuracy-98%25-4FD1C5?style=for-the-badge&labelColor=0A0D12" alt="98% best model accuracy">
-<img src="https://img.shields.io/badge/Certifications-6-4FD1C5?style=for-the-badge&labelColor=0A0D12" alt="6 certifications">
-<img src="https://img.shields.io/badge/Records_processed-1M%2B-4FD1C5?style=for-the-badge&labelColor=0A0D12" alt="1M+ records processed">
+<img src="assets/stats.svg" alt="3+ projects shipped, 98% best model accuracy, 6 certifications, 1M+ records processed" width="100%">
 
 </div>
 
@@ -29,7 +24,7 @@
   <a href="#-contact">Contact</a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0D12,50:4FD1C5,100:E8A659&height=3" width="100%" alt="">
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 👤 About
 
@@ -41,7 +36,7 @@ I'm an AI/ML engineer focused on turning complex data into **production-ready in
 
 From credit-risk models processing millions of records to fine-tuning language models for domain-specific tasks, I work at the intersection of mathematical rigor and engineering pragmatism — every model shipped for **scale, reliability, and measurable business value**.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0D12,50:4FD1C5,100:E8A659&height=3" width="100%" alt="">
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 🧪 Projects
 
@@ -101,7 +96,7 @@ From credit-risk models processing millions of records to fine-tuning language m
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0D12,50:4FD1C5,100:E8A659&height=3" width="100%" alt="">
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 🛠 Skills & Tools
 
@@ -118,7 +113,7 @@ From credit-risk models processing millions of records to fine-tuning language m
 | **DevOps & cloud** | `MLflow` `Streamlit` `FastAPI` |
 | **Databases & storage** | `PostgreSQL` `MySQL` `ChromaDB` `SQLite` |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0D12,50:4FD1C5,100:E8A659&height=3" width="100%" alt="">
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 🧭 Experience & Education
 
@@ -132,7 +127,7 @@ Designing and deploying end-to-end ML pipelines for credit-risk models processin
 `2024 — 2027`  
 Built a strong foundation in algorithms, statistics, and probability. Completed 15+ ML/AI projects independently and studied deep learning architectures (CNNs, RNNs, Transformers), with published research on NLP applications.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0D12,50:4FD1C5,100:E8A659&height=3" width="100%" alt="">
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 🏆 Certifications & Awards
 
@@ -147,7 +142,7 @@ Built a strong foundation in algorithms, statistics, and probability. Completed 
 | Machine Learning in Python | 365 Data Science | 2025 | [Verify →](https://learn.365datascience.com/certificates/CC-28DB538D67/) |
 | Power BI | 365 Data Science | 2025 | [Verify →](https://learn.365datascience.com/certificates/CC-C91629DC24/) |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0D12,50:4FD1C5,100:E8A659&height=3" width="100%" alt="">
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## 📬 Contact
 
@@ -168,10 +163,6 @@ Whether it's a production ML pipeline, a research collaboration, or a full-time 
   <a href="https://zainulabedeen589.netlify.app/resume"><img src="https://img.shields.io/badge/Resume_(PDF)-E8A659?style=for-the-badge&logoColor=0A0D12" alt="Resume"></a>
 </p>
 
-<div align="center">
+<img src="assets/divider.svg" width="100%" alt="">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8A659,50:4FD1C5,100:0A0D12&height=120&section=footer&animation=fadeIn" width="100%" alt="">
-
-<sub><code>© 2026 Zainul Abedeen — built with data and a lot of gradient math.</code></sub>
-
-</div>
+<p align="center"><sub><code>© 2026 Zainul Abedeen — built with data and a lot of gradient math.</code></sub></p>
