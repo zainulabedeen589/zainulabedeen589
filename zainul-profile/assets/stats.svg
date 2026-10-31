@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 210" width="1000" height="210" role="img" aria-label="98% accuracy, 96% F1, 1M+ records, 6 certifications">
+<rect width="1000" height="210" fill="#0A0D12"/><rect x="0.5" y="0.5" width="999" height="209" fill="none" stroke="#232A35"/>
+<circle cx="125" cy="96" r="54" fill="none" stroke="#232A35" stroke-width="9"/>
+<circle cx="125" cy="96" r="54" fill="none" stroke="#4FD1C5" stroke-width="9" stroke-linecap="round" stroke-dasharray="339.3" stroke-dashoffset="339.3" transform="rotate(-90 125 96)"><animate attributeName="stroke-dashoffset" values="339.3;6.8" dur="1.6s" begin="0.0s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/></circle>
+<text x="125" y="104" text-anchor="middle" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="24" font-weight="700" fill="#E7EAEE">98%<animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.4s" fill="freeze"/></text>
+<text x="125" y="184" text-anchor="middle" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="13" fill="#8D97A5">best model accuracy</text>
+<circle cx="375" cy="96" r="54" fill="none" stroke="#232A35" stroke-width="9"/>
+<circle cx="375" cy="96" r="54" fill="none" stroke="#E8A659" stroke-width="9" stroke-linecap="round" stroke-dasharray="339.3" stroke-dashoffset="339.3" transform="rotate(-90 375 96)"><animate attributeName="stroke-dashoffset" values="339.3;13.6" dur="1.6s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/></circle>
+<text x="375" y="104" text-anchor="middle" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="24" font-weight="700" fill="#E7EAEE">96%<animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.7s" fill="freeze"/></text>
+<text x="375" y="184" text-anchor="middle" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="13" fill="#8D97A5">airline F1-score</text>
+<circle cx="625" cy="96" r="54" fill="none" stroke="#232A35" stroke-width="9"/>
+<circle cx="625" cy="96" r="54" fill="none" stroke="#4FD1C5" stroke-width="9" stroke-linecap="round" stroke-dasharray="339.3" stroke-dashoffset="339.3" transform="rotate(-90 625 96)"><animate attributeName="stroke-dashoffset" values="339.3;0.0" dur="1.6s" begin="0.6s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/></circle>
+<text x="625" y="104" text-anchor="middle" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="24" font-weight="700" fill="#E7EAEE">1M+<animate attributeName="opacity" values="0;1" dur="0.8s" begin="1.0s" fill="freeze"/></text>
+<text x="625" y="184" text-anchor="middle" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="13" fill="#8D97A5">records processed</text>
+<circle cx="875" cy="96" r="54" fill="none" stroke="#232A35" stroke-width="9"/>
+<circle cx="875" cy="96" r="54" fill="none" stroke="#E8A659" stroke-width="9" stroke-linecap="round" stroke-dasharray="339.3" stroke-dashoffset="339.3" transform="rotate(-90 875 96)"><animate attributeName="stroke-dashoffset" values="339.3;135.7" dur="1.6s" begin="0.8999999999999999s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/></circle>
+<text x="875" y="104" text-anchor="middle" font-family="'Space Grotesk','Segoe UI',Arial,sans-serif" font-size="24" font-weight="700" fill="#E7EAEE">6<animate attributeName="opacity" values="0;1" dur="0.8s" begin="1.2999999999999998s" fill="freeze"/></text>
+<text x="875" y="184" text-anchor="middle" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="13" fill="#8D97A5">certifications</text>
+</svg>
